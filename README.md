@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://roxsyVel910.io)
+(https://roxsyVel910.io)
 <h1 align="center">Hola 👋, Soy Roxsana </h1>
-<h3 align="center"> Desarrolladora Web </h3>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/roxsyVel910/roxsyVel910/main/img/roxsy.gif">
+<h2 align="center"> Desarrolladora Web </h2>
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/roxsyVel910/roxsyVel910/main/img/roxsy.gif">
 
 
 - 🔭 Estoy trabajando en **Duckling Shoes App**
@@ -21,10 +21,8 @@
 <h3 align="left">Contactame:</h3>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roxsanavelasquez//)](https://www.linkedin.com/in/roxsanavelasquez/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-roxsanavelasquez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roxsanavelasquez/)](https://www.linkedin.com/in/roxsanavelasquez/)
 [![Twitter Badge](https://img.shields.io/badge/-@_LjRoxsy-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LjRoxsy)](https://twitter.com/LjRoxsy)
-
 [![Gmail Badge](https://img.shields.io/badge/-roxsy.dj-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:roxsy.dj@gmail.com)](mailto:roxsy.dj@gmail.com)
 
 
@@ -37,10 +35,12 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   </p>
 
+<br> 
 
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roxsyVel910&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="roxsyVel910" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roxsyVel910&show_icons=true&locale=en&theme=tokyonight" alt="roxsyVel910" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roxsyVel910&&theme=tokyonight" alt="roxsyVel910" /></p>
