@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-(https://roxsyVel910.io)
-<h1 align="center">Hola 👋, Soy Roxsana </h1>
-<h2 align="center"> Desarrolladora Web </h2>
-<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/roxsyVel910/roxsyVel910/main/img/roxsy.gif">
+
+<h1 align="center">Hola 👋, Soy Roxsana y soy Desarrolladora Web  </h1>
+
+<img align="right" alt="Coding" width="270" src="https://raw.githubusercontent.com/roxsyVel910/roxsyVel910/main/img/roxsy.gif">
 
 
 - 🔭 Estoy trabajando en **Duckling Shoes App**
